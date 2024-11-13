@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jonathan
+- 🌱 I’m a farmer and aspiring full stack developer
+- ⚡ Fun fact: I code with goats
